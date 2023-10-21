@@ -6,8 +6,6 @@ Welcome to the "FLL-Masterpiece-Season" GitHub Repository by Rolab Industries!
 
 The FIRST LEGO League (FLL) Masterpiece Season is where innovation, creativity, and engineering excellence come together in the realm of competitive robotics and problem-solving. At Rolab Industries, we are proud to be part of this incredible journey, and this repository serves as the central hub for our FLL Masterpiece Season project.
 
-# Key Features:
-
 # Project Showcase: 
 Explore our FLL Masterpiece Season project, which showcases the culmination of our hard work, dedication, and inventive solutions.
 
