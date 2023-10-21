@@ -1,0 +1,125 @@
+/*
+*  html5resetcss
+*/
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
+ins{background-color:#ff9;color:#000;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+
+/*style*/
+
+/* style.css */
+body {
+    background-color: #000510;
+}
+
+.container {
+    display: flex; /* Добавляем flex контейнер для центрирования элементов */
+    justify-content: center;
+}
+
+.nav {
+    text-align: center;
+    margin-top: 20px;
+    display: flex; /* Добавляем flex контейнер для выравнивания элементов по центру */
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-family: Montserrat;
+    padding-left: 50px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.img-logo {
+    vertical-align: middle; /* Выравнивание изображения по центру */
+}
+
+.line-nav{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 20px;
+    margin-top: 37px;
+    margin-left: 30px;
+}
+
+.smm-nav{
+    margin-top: 38px;
+    margin-left: 50px;
+}
+
+.lang{
+    margin-top: 40px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+    font-family: Montserrat
+}
+
+.lang-1{
+    text-decoration: none;
+    color: white;
+    padding-right: 30px;
+}
+
+#typed-output {
+    display: inline;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 30px;
+}
+
+#typed{
+    display: inline;
+    text-align: center;
+}
+.typed-cursor {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.text-1-bd1{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    letter-spacing: 2.24px;
+    color: #FFF;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.rolab{
+    color: #207FAF;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.body-1{
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 50px;
+}
